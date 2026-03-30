@@ -132,7 +132,7 @@ MIT — free to use, modify, and distribute.
 
 ## 👨‍💻 Author
 
-**Ravi**
+**Ravi Kashyap**
 - GitHub: [@Ravionite](https://github.com/ravii-k)
 
 ---
