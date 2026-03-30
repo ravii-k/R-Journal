@@ -129,7 +129,10 @@ R-Journal uses Apple's `.ultraThinMaterial` glass blur throughout — a native m
 ## License
 MIT — free to use, modify, and distribute.
 ---
-👨‍💻 Author
-Ravi
 
-GitHub: @Ravionite
+## 👨‍💻 Author
+
+**Ravi**
+- GitHub: [@Ravionite](https://github.com/ravii-k)
+
+---
