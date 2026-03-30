@@ -1,5 +1,7 @@
 # R-Journal
-
+```
+*We are all living in a simulation*
+```
 > A native macOS trading journal for Nifty 50 options traders — built to enforce discipline, surface patterns, and track growth.
 
 ![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-black?style=flat-square&logo=apple)
@@ -136,3 +138,5 @@ MIT — free to use, modify, and distribute.
 - GitHub: [@Ravionite](https://github.com/ravii-k)
 
 ---
+
+> Built with ❤️
