@@ -125,11 +125,13 @@ R-Journal uses Apple's `.ultraThinMaterial` glass blur throughout — a native m
 - No onboarding. No popups. Opens directly to your trade list.
 
 ---
-Project developer: Ravi Kashyap
----
 
 ## License
 MIT — free to use, modify, and distribute.
 ---
+👨‍💻 Author
+Ravi
+
+GitHub: @Ravionite
 
 *Built for personal use. Shared for the community.*
