@@ -126,20 +126,10 @@ R-Journal uses Apple's `.ultraThinMaterial` glass blur throughout — a native m
 
 ---
 
-## Roadmap
-
-- [ ] Export trades to CSV
-- [ ] Weekly/monthly summary reports
-- [ ] Multiple instrument support (BankNifty, FinNifty)
-- [ ] iCloud sync
-- [ ] Backtesting strategy tagger
-
----
-
 ## License
 
 MIT — free to use, modify, and distribute.
 
 ---
-
+Developer- RAVI KASHYAP
 *Built for personal use. Shared for the community.*
