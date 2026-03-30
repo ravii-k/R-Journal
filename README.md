@@ -129,9 +129,7 @@ Project developer: Ravi Kashyap
 ---
 
 ## License
-
 MIT — free to use, modify, and distribute.
-Developer- RAVI KASHYAP
 ---
 
 *Built for personal use. Shared for the community.*
