@@ -133,5 +133,3 @@ MIT — free to use, modify, and distribute.
 Ravi
 
 GitHub: @Ravionite
-
-*Built for personal use. Shared for the community.*
